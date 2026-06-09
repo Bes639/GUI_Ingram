@@ -23,12 +23,10 @@ Telegram: @SniffCam (https://t.me/SniffCam)
 git clone https://github.com/Bes639/Ingram-GUI
 cd Ingram-GUI
 
-2.
-Вытащи ingram_GUI.py и поставь его в папку, где находиться run_ingram.py, а папку Ingram-GUI можешь удалить
+2. Вытащи ingram_GUI.py и поставь его в папку, где находиться run_ingram.py, а папку Ingram-GUI можешь удалить
 
 3. Зависимости для Linux (Ubuntu / Debian / Mint)
 sudo apt install python3-tk
-
 Для Linux (Fedora / Red Hat)
 sudo dnf install python3-tkinter
 
