@@ -18,20 +18,24 @@ Telegram: @SniffCam (https://t.me/SniffCam)
 ------------------
 
 1. Клонируй репозиторий со сканером и убедись, что скрипт оболочки находится в корневой папке проекта Ingram (рядом с run_ingram.py).
-
+```bash
 git clone https://github.com/Bes639/Ingram-GUI
 cd Ingram-GUI
-
-2. Вытащи ingram_GUI.py и поставь его в папку, где находиться run_ingram.py, а папку Ingram-GUI можешь удалить
+```
+2. Вытащи ingram_GUI.py и перенеси его в папку, где находиться run_ingram.py, а папку Ingram-GUI можешь удалить
 
 3. Зависимости для Linux (Ubuntu / Debian / Mint)
+```bash
 sudo apt install python3-tk
+```
 Для Linux (Fedora / Red Hat)
+```bash
 sudo dnf install python3-tkinter
-
-4. Запуск
+```
+5. Запуск
+```bash
 python ingram_GUI.py
-
+```
 ------------------------------------------------------------------------
 
 Настройка параметров сканирования
